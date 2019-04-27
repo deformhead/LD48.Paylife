@@ -13,6 +13,7 @@ body {
 
 canvas {
 
+    cursor: pointer;
     left: 50%;
     position: fixed;
     top: 50%;

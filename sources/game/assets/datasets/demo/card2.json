@@ -1,0 +1,134 @@
+[
+    {
+        "type": "carrot",
+        "life": 1,
+        "drop": 0.25,
+        "decay": 0
+    },
+    {
+        "type": "tomato",
+        "life": 1,
+        "drop": 0.25,
+        "decay": 0
+    },
+    {
+        "type": "wine",
+        "life": 4,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "tomato",
+        "life": 1,
+        "drop": 0.25,
+        "decay": 0
+    },
+    {
+        "type": "chick",
+        "life": 4,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "carrot",
+        "life": 1,
+        "drop": 0.25,
+        "decay": 0
+    },
+    {
+        "type": "chick",
+        "life": 4,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "chick",
+        "life": 4,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "burger",
+        "life": 8,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "chick",
+        "life": 4,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "wine",
+        "life": 4,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "burger",
+        "life": 8,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "burger",
+        "life": 8,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "plane",
+        "life": 8,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "burger",
+        "life": 8,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "drug",
+        "life": 16,
+        "drop": 2,
+        "decay": 1
+    },
+    {
+        "type": "plane",
+        "life": 8,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "drug",
+        "life": 16,
+        "drop": 2,
+        "decay": 1
+    },
+    {
+        "type": "gun",
+        "life": 32,
+        "drop": 4,
+        "decay": 2
+    },
+    {
+        "type": "drug",
+        "life": 16,
+        "drop": 2,
+        "decay": 1
+    },
+    {
+        "type": "gun",
+        "life": 32,
+        "drop": 4,
+        "decay": 2
+    },
+    {
+        "type": "gun",
+        "life": 32,
+        "drop": 4,
+        "decay": 2
+    }
+]

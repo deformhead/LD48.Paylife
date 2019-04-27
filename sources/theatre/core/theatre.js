@@ -76,7 +76,6 @@ function Theatre(config) {
 
             this.delta.render = timeframe;
             this.scene.render.call(this);
-            this.camera.render();
         });
 
         preload(assets, (assets) => {

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "carrot",
+        "life": 1,
+        "drop": 0.25,
+        "decay": 0
+    },
+    {
+        "type": "tomato",
+        "life": 1,
+        "drop": 0.25,
+        "decay": 0
+    },
+    {
+        "type": "chick",
+        "life": 2,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "wine",
+        "life": 2,
+        "drop": 0.5,
+        "decay": 0.25
+    },
+    {
+        "type": "burger",
+        "life": 4,
+        "drop": 1,
+        "decay": 0.5
+    },
+    {
+        "type": "drug",
+        "life": 8,
+        "drop": 2,
+        "decay": 1
+    }
+]
