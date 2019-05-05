@@ -2,6 +2,8 @@
 
 # LD48.Paylife
 
+![Paylife](./docs/preview.png)
+
 Welcome ! [Paylife](https://deformhead.github.io/LD48.Paylife/index.html) ([Ludum Dare 44 Theme: Your life is currency](https://ldjam.com/events/ludum-dare/44/ld48-paylife)) is built in plain HTML5/JavaScript with a framework I am developping.
 
 I challenged myself creating this game in only 24h instead of the regular 48h !
